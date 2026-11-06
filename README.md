@@ -19,8 +19,8 @@ Scope: modules and software for measuring distance to one point with a laser (ti
 - [Benewake](https://en.benewake.com/) — TFmini, TF-Luna, TF02 and TF03 single-point LiDAR for drones and robots.
 - [LightWare Optoelectronics](https://lightwarelidar.com/) — SF and LW series laser altimeters and rangefinders with serial and I2C output.
 - [Garmin LIDAR-Lite](https://www.garmin.com/en-US/p/557294) — LIDAR-Lite v3 / v3HP optical distance sensors (I2C, PWM).
-- [Nooploop](https://www.nooploop.com/en/) — TOFSense time-of-flight ranging sensors.
-- [Lumispot Tech](https://en.lumispot-tech.com/) — Laser rangefinder modules and laser sources.
+- [Nooploop](https://www.nooploop.com/) — TOFSense time-of-flight ranging sensors.
+- [Lumispot Tech](https://www.lumispot-tech.com/) — Laser rangefinder modules and laser sources.
 - [Terabee](https://www.terabee.com/) — TeraRanger Evo time-of-flight distance sensors.
 - [DFRobot](https://www.dfrobot.com/) — Hobby and education laser range sensors and breakouts.
 - [STMicroelectronics FlightSense](https://www.st.com/en/imaging-and-photonics-solutions/time-of-flight-sensors.html) — VL53 family time-of-flight ranging ICs.
