@@ -30,11 +30,11 @@ Scope: modules and software for measuring distance to one point with a laser (ti
 - [ErdiTech/erdi-lrf-drivers](https://github.com/ErdiTech/erdi-lrf-drivers) — Python, Arduino and ROS 2 drivers for ERDI modules, every constant cited to the manual.
 - [erdi-lrf on PyPI](https://pypi.org/project/erdi-lrf/) — pip install erdi-lrf.
 - [ErdiLRF Arduino library](https://github.com/ErdiTech/ErdiLRF) — Arduino / ESP32 library for ERDI modules.
-- [erdi-lrf-esp32-micropython](https://github.com/Tommyapi/erdi-lrf-esp32-micropython) — MicroPython driver for ESP32 and RP2040.
-- [erdi-lrf-stm32-hal](https://github.com/Tommyapi/erdi-lrf-stm32-hal) — STM32 HAL driver with circular DMA.
-- [erdi-lrf-home-assistant](https://github.com/Tommyapi/erdi-lrf-home-assistant) — ESPHome external component for Home Assistant.
-- [erdi-lrf-raspberry-pi-python](https://github.com/Tommyapi/erdi-lrf-raspberry-pi-python) — Raspberry Pi logger, MQTT publisher and MAVLink bridge.
-- [erdi-lrf-ros2-examples](https://github.com/Tommyapi/erdi-lrf-ros2-examples) — ROS 2 launch files, RViz config and filters.
+- [erdi-lrf-esp32-micropython](https://github.com/ErdiTech/erdi-lrf-esp32-micropython) — MicroPython driver for ESP32 and RP2040.
+- [erdi-lrf-stm32-hal](https://github.com/ErdiTech/erdi-lrf-stm32-hal) — STM32 HAL driver with circular DMA.
+- [erdi-lrf-home-assistant](https://github.com/ErdiTech/erdi-lrf-home-assistant) — ESPHome external component for Home Assistant.
+- [erdi-lrf-raspberry-pi-python](https://github.com/ErdiTech/erdi-lrf-raspberry-pi-python) — Raspberry Pi logger, MQTT publisher and MAVLink bridge.
+- [erdi-lrf-ros2-examples](https://github.com/ErdiTech/erdi-lrf-ros2-examples) — ROS 2 launch files, RViz config and filters.
 - [budryerson/TFMini-Plus](https://github.com/budryerson/TFMini-Plus) — Arduino library for Benewake TFmini-Plus.
 - [budryerson/TFLuna-I2C](https://github.com/budryerson/TFLuna-I2C) — Arduino library for the Benewake TF-Luna over I2C.
 - [garmin/LIDARLite_Arduino_Library](https://github.com/garmin/LIDARLite_Arduino_Library) — Arduino library for LIDAR-Lite.
@@ -50,20 +50,20 @@ Scope: modules and software for measuring distance to one point with a laser (ti
 - [AP_RangeFinder source](https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_RangeFinder) — ArduPilot rangefinder backends.
 - [PX4 distance sensor drivers](https://github.com/PX4/PX4-Autopilot/tree/main/src/drivers/distance_sensor) — PX4 rangefinder drivers.
 - [ArduPilot PR #34983: ERDI VB and H series](https://github.com/ArduPilot/ardupilot/pull/34983) — Open pull request adding a native serial driver for the 0x5C stream modules.
-- [erdi-lrf-pixhawk-ardupilot](https://github.com/Tommyapi/erdi-lrf-pixhawk-ardupilot) — Wiring, RNGFND parameters and bench logs for using a laser rangefinder as an ArduPilot altimeter.
+- [erdi-lrf-pixhawk-ardupilot](https://github.com/ErdiTech/erdi-lrf-pixhawk-ardupilot) — Wiring, RNGFND parameters and bench logs for using a laser rangefinder as an ArduPilot altimeter.
 
 ## Guides
 
-- [drone-altimeter-laser-rangefinder-guide](https://github.com/Tommyapi/drone-altimeter-laser-rangefinder-guide) — Selection guide for drone laser altimeters and obstacle sensors.
+- [drone-altimeter-laser-rangefinder-guide](https://github.com/ErdiTech/drone-altimeter-laser-rangefinder-guide) — Selection guide for drone laser altimeters and obstacle sensors.
 - [ERDI: 905 nm vs 1535 nm](https://github.com/ErdiTech/erdi-lrf-drivers/blob/main/docs/905nm-vs-1535nm.md) — Wavelength trade-offs and laser safety scope.
 - [ERDI: laser rangefinder evaluation checklist](https://github.com/ErdiTech/erdi-lrf-drivers/blob/main/docs/evaluation-checklist.md) — What to test before design freeze.
 - [ERDI: field troubleshooting](https://github.com/ErdiTech/erdi-lrf-drivers/blob/main/docs/field-troubleshooting.md) — Symptom-to-cause table for serial rangefinders.
 
 ## Tools and datasets
 
-- [laser-rangefinder-module-database](https://github.com/Tommyapi/laser-rangefinder-module-database) — Open dataset of laser rangefinder module specifications with source URLs and capture dates; sortable table.
-- [lrf-uart-protocol-decoder](https://github.com/Tommyapi/lrf-uart-protocol-decoder) — WebSerial and Python UART frame decoder for rangefinder modules.
-- [erdi-lrf-pixhawk-ardupilot](https://github.com/Tommyapi/erdi-lrf-pixhawk-ardupilot) — Pixhawk wiring, parameters and a Lua driver.
+- [laser-rangefinder-module-database](https://github.com/ErdiTech/laser-rangefinder-module-database) — Open dataset of laser rangefinder module specifications with source URLs and capture dates; sortable table.
+- [lrf-uart-protocol-decoder](https://github.com/ErdiTech/lrf-uart-protocol-decoder) — WebSerial and Python UART frame decoder for rangefinder modules.
+- [erdi-lrf-pixhawk-ardupilot](https://github.com/ErdiTech/erdi-lrf-pixhawk-ardupilot) — Pixhawk wiring, parameters and a Lua driver.
 
 ## Standards and safety
 
