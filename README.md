@@ -27,7 +27,8 @@ Scope: modules and software for measuring distance to one point with a laser (ti
 
 ## Drivers and libraries
 
-- [ErdiTech/erdi-lrf-drivers](https://github.com/ErdiTech/erdi-lrf-drivers) — Python, Arduino and ROS 2 drivers for ERDI modules, every constant cited to the manual.
+- [ErdiTech/erdi-lrf-drivers](https://github.com/ErdiTech/erdi-lrf-drivers) — Python and Arduino drivers for ERDI modules, every constant cited to the manual.
+- [ErdiTech/erdi_lrf_driver](https://github.com/ErdiTech/erdi_lrf_driver) — ROS 2 driver node (`sensor_msgs/Range`), builds on Jazzy and Humble.
 - [erdi-lrf on PyPI](https://pypi.org/project/erdi-lrf/) — pip install erdi-lrf.
 - [ErdiLRF Arduino library](https://github.com/ErdiTech/ErdiLRF) — Arduino / ESP32 library for ERDI modules.
 - [erdi-lrf-esp32-micropython](https://github.com/ErdiTech/erdi-lrf-esp32-micropython) — MicroPython driver for ESP32 and RP2040.
