@@ -1,5 +1,7 @@
 # Awesome laser rangefinder [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Datasheets and public prices for every module are in the [ERDI laser rangefinder model list](https://erdilrf.com/models/?utm_source=github&utm_medium=readme&utm_campaign=awesome-laser-rangefinder).
+
 A curated list of **laser rangefinder and single-point LiDAR distance modules**, the drivers that talk to them, flight-controller integration docs, guides and safety standards. For drones, robots, industrial gauging, surveying and IoT.
 
 Scope: modules and software for measuring distance to one point with a laser (time-of-flight, phase-shift, triangulation). Scanning LiDAR has its own lists; see [awesome-lidar](https://github.com/szenergy/awesome-lidar).
